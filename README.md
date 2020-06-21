@@ -1,4 +1,4 @@
-# Study_RShiny_Adult_Imcome
+# Study_RShiny_Adult_Income
 
 ## Description
 * This source is to create RShiny which is interactive web BI
